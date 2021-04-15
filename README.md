@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafakadletz
-- 👀 I’m interested in javascript devolopment 
+- 👀 I’m interested in javascript development 
 - 🌱 I’m currently working on a javascript project, which is a Open Government Data portal.
 
 
